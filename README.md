@@ -15,6 +15,10 @@
 
 An end-to-end sales analysis project using Microsoft Excel to evaluate supermarket performance, identify revenue drivers and uncover monthly sales trends.
 
+![Uploading Dashboard-preview.png.png…]()
+
+<img width="1913" height="758" alt="Dashboard-preview png" src="https://github.com/user-attachments/assets/33908ca7-7ceb-4471-8f09-de8b2aee831b" />
+
 ### Data Source
 
 
